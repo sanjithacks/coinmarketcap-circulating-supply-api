@@ -2,6 +2,8 @@
 ## A passionate frontend developer from India
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/sanjithacks/coinmarketcap-api-to-track-circulating-supply-total-supply)
+- 🔭 I’m currently working on [BuyMeAcoffee](https://www.buymeacoffee.com/cryptoids/extras)
+- 🔭 I’m currently working on [Gumroad](https://cryptoids.gumroad.com/)
 
 - 🌱 I’m currently learning **Nothing**
 
